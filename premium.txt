@@ -4,9 +4,3 @@ iqokcz95
 Hellrey
 Shad0wMASTER
 sinder
-testmod1
-testmod2
-Player590
-Player21
-Player775
-Player867
